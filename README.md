@@ -1,6 +1,7 @@
 # Assignment 03: 🌡️ Modeling a Smart Climate Control System Using a Multi-Layer Neural Network
 
 **Course:** MT1006 Differential Equations  
+**Instructor:** Miss Qurat Ul Ain
 **Platform:** Google Colab  
 **Framework:** PyTorch  
 **Colab Link:** https://colab.research.google.com/drive/1cCSS5a6G33zeaNsXPrD1bU20CfFqfbIW?usp=sharing  
