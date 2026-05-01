@@ -1,4 +1,4 @@
-# 🌡️ Modeling a Smart Climate Control System Using a Multi-Layer Neural Network
+# Assignment 03: 🌡️ Modeling a Smart Climate Control System Using a Multi-Layer Neural Network
 
 **Course:** MT1006 Differential Equations  
 **Platform:** Google Colab  
