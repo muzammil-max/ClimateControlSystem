@@ -202,7 +202,7 @@ The model cannot reach zero loss due to irreducible noise.
 
 ## 👥 Team Members
 
-- Muzamil — 25K6533  
+- Muzammil — 25K6533  
 - Junaid — 25K6538  
 - Sohaib — 25K6532  
 
