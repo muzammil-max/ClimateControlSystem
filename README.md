@@ -2,6 +2,7 @@
 
 **Course:** MT1006 Differential Equations  
 **Instructor:** Miss Qurat Ul Ain
+
 **Platform:** Google Colab  
 **Framework:** PyTorch  
 **Colab Link:** https://colab.research.google.com/drive/1cCSS5a6G33zeaNsXPrD1bU20CfFqfbIW?usp=sharing  
